@@ -18,7 +18,7 @@
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/Ashiqulislam171"> <img src="https://komarev.com/ghpvc/?username=NishatFariza&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/Ashiqulislam171"> <img src="https://komarev.com/ghpvc/?username=Ashiqulislam171&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
