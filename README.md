@@ -1,8 +1,6 @@
 ## Hi there 👋, I am Asiqul Islam
 ### Java Developer
 ## Profile Views
-
-
   <table>
     <tr>
       <!-- <th>Profile Views</th> -->
@@ -23,14 +21,14 @@
     </tr>
   </table>
 
-Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token
+Skills: java / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token
 
-- 🔭 I’m currently working on Web Development. 
+- 🔭 I’m currently working on Java Development. 
 - 🌱 I’m currently learning TypeScript || Redux 
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Frontend Development 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ashiqulislam171)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nishatfariza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nishat.fariza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nishatfariza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/FarizaNishat)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ashiqulislam171)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asiqul-islam-ridoy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nishat.fariza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nishatfariza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/FarizaNishat)  
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
@@ -51,7 +49,7 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
    <h1 align="center">🏆 Github Stats</h1>
        <tr>
        <td><img alt="Ashiqulislam171 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Ashiqulislam171&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="Ashiqulislam171 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishatFariza&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td><img alt="Ashiqulislam171 :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiqulislam171&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiqulislam171&theme=blue-green&hide_border=true"></td>
