@@ -1,5 +1,6 @@
 ## Hi there 👋, I am Asiqul Islam
 ### Java Developer
+
 ## Profile Views
   <table>
     <tr>
@@ -21,7 +22,7 @@
     </tr>
   </table>
 
-Skills: java / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token
+Skills: C/ Java / Data Structure & Algorithom / MYSQL/Computer Networking 
 
 - 🔭 I’m currently working on Java Development. 
 - 🌱 I’m currently learning TypeScript || Redux 
